@@ -1,0 +1,7 @@
+.wrapper {
+  display: block;
+  border: 1px solid darkblue;
+  height: 150 px;
+  width: 100px;
+  font-size: 10px;
+}
